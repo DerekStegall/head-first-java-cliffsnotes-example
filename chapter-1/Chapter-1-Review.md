@@ -6,7 +6,7 @@ Java is written within a **Source** file. The source for us would be the file th
 
 ### What do you mean by "source"?
 
-????
+Source is the file where the Java is held. The Java source will have the `.java` extension.
 
 ## What's the code structure in Java ?
 
