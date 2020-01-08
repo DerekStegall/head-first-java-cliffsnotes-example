@@ -42,9 +42,9 @@ Java Keywords(Reserved words) are certain words & things that the compiler recog
 
 ## What are Reference Variables ?
 
-**Reference Variables** hold bits that represeent a way to access an object.
+**Reference Variables** hold bits that represent a way to access an object.
 
-(Represent's one and only one object)
+(Represents one and only one object)
 
 Use the **(.)** dot operator to allow reference variables to use the methods in place for that object.
 
@@ -58,7 +58,7 @@ When using the dot operator on reference variables, think of it as pressing a bu
 
 ## What's The Flow of Declaration, Creation and Assignment ?
 
-This piece of code has already been **declared**, **created** and **assigned**. Lets break it down.
+This object has already been **declared**, **created** and **assigned**. Lets break it down.
 
 ```java
 
