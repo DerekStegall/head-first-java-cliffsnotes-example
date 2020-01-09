@@ -5,7 +5,6 @@ class Airplane extends Vehicle {
 
     // Overriding an inherited method
     public void honkhorn() {
-        horn = "This function is not available, while in the air";
         System.out.println(horn);
     }
 
